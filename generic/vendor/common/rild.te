@@ -1,3 +1,5 @@
+attribute vendor_hal_dataconnection_qti;
+attribute vendor_hal_dataconnection_qti_server;
 # Copyright (c) 2018, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

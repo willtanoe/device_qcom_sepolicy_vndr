@@ -1,3 +1,7 @@
+attribute vendor_hal_btconfigstore_server;
+
+attribute vendor_hal_fm;
+attribute vendor_hal_fm_server;
 # Copyright (c) 2019, The Linux Foundation. All rights reserved.
 
 # Redistribution and use in source and binary forms, with or without

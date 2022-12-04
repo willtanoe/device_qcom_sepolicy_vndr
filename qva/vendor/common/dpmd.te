@@ -1,3 +1,6 @@
+attribute vendor_hal_diaghal;
+attribute vendor_hal_diaghal_client;
+type vendor_dpmd;
 # Copyright (c) 2019, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

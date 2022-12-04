@@ -1,3 +1,9 @@
+attribute vendor_hal_qspmhal;
+attribute vendor_hal_qspmhal_client;
+attribute vendor_hal_bluetooth_dun;
+attribute vendor_hal_bluetooth_dun_client;
+attribute vendor_hal_btconfigstore;
+attribute vendor_hal_btconfigstore_client;
 # Copyright (c) 2019, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

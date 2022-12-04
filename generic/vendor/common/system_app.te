@@ -1,3 +1,7 @@
+attribute vendor_hal_dataconnection_qti_client;
+attribute vendor_hal_tui_comm_client;
+attribute vendor_hal_qdutils_disp_client;
+attribute vendor_hal_hbtp_client;
 # Copyright (c) 2018, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
