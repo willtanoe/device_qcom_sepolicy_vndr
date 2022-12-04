@@ -1,3 +1,4 @@
+type vendor_hal_display_postproc_client;
 attribute vendor_hal_display_color;
 attribute vendor_hal_display_color_server;
 # Copyright (c) 2018-2019, The Linux Foundation. All rights reserved.

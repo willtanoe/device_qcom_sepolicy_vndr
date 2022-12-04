@@ -1,3 +1,4 @@
+type vendor_hal_trustedui_client;
 attribute vendor_hal_systemhelper;
 attribute vendor_hal_systemhelper_client;
 attribute vendor_hal_trustedui;

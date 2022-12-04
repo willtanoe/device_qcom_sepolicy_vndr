@@ -1,3 +1,5 @@
+attribute vendor_hal_scve_server;
+attribute vendor_hal_scve;
 # Copyright (c) 2018, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

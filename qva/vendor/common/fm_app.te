@@ -1,3 +1,5 @@
+type vendor_hal_fm_client;
+type vendor_fm_app;
 # Copyright (c) 2020, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

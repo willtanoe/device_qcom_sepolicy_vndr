@@ -1,3 +1,6 @@
+attribute vendor_hal_pasrmanager_client;
+attribute vendor_hal_scve_client;
+attribute vendor_hal_cvp_client;
 # Copyright (c) 2019-2020, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

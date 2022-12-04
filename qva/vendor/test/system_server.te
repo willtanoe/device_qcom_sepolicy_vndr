@@ -1,3 +1,5 @@
+attribute vendor_hal_wifimyftm;
+attribute vendor_hal_wifimyftm_client;
 # Copyright (c) 2019, The Linux Foundation. All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

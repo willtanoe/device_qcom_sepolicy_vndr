@@ -1,3 +1,4 @@
+type vendor_elabel_data_file;
 attribute vendor_hal_dataconnection_qti_client;
 attribute vendor_hal_tui_comm_client;
 attribute vendor_hal_qdutils_disp_client;
